@@ -1,0 +1,254 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* InstaEmailAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {793, 405}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 490}";
+		};
+	};
+	1D3623250D0F684500981E51 /* InstaEmailAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1079}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{477, 1407}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* InstaEmail */ = {
+		activeExec = 0;
+		executables = (
+			498010CB1514952000D9108A /* InstaEmail */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* InstaEmailViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {607, 312}}";
+			sepNavSelRange = "{278, 0}";
+			sepNavVisRange = "{144, 411}";
+			sepNavWindowFrame = "{{38, 194}, {750, 558}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* InstaEmailViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {793, 1625}}";
+			sepNavSelRange = "{2863, 0}";
+			sepNavVisRange = "{1832, 1041}";
+			sepNavWindowFrame = "{{61, 173}, {750, 558}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 498010CB1514952000D9108A /* InstaEmail */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* InstaEmail */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* InstaEmail */,
+		);
+		codeSenseManager = 498010E11514953500D9108A /* Code sense */;
+		executables = (
+			498010CB1514952000D9108A /* InstaEmail */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					615,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					372,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 353670432;
+			PBXWorkspaceStateSaveDate = 353670432;
+		};
+		perUserProjectItems = {
+			498011051514C41300D9108A /* PBXTextBookmark */ = 498011051514C41300D9108A /* PBXTextBookmark */;
+			498011061514C41300D9108A /* PBXTextBookmark */ = 498011061514C41300D9108A /* PBXTextBookmark */;
+			498011071514C41300D9108A /* PBXTextBookmark */ = 498011071514C41300D9108A /* PBXTextBookmark */;
+			498011081514C41300D9108A /* PlistBookmark */ = 498011081514C41300D9108A /* PlistBookmark */;
+			498011091514C41300D9108A /* PBXTextBookmark */ = 498011091514C41300D9108A /* PBXTextBookmark */;
+			4980115B1514CDBD00D9108A /* PBXTextBookmark */ = 4980115B1514CDBD00D9108A /* PBXTextBookmark */;
+			498011651514CE1F00D9108A /* PBXTextBookmark */ = 498011651514CE1F00D9108A /* PBXTextBookmark */;
+			4980116E1514D0E800D9108A /* PBXTextBookmark */ = 4980116E1514D0E800D9108A /* PBXTextBookmark */;
+		};
+		sourceControlManager = 498010E01514953500D9108A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {590, 405}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 357}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* InstaEmail_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {656, 405}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 189}";
+		};
+	};
+	498010CB1514952000D9108A /* InstaEmail */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = InstaEmail;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	498010E01514953500D9108A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	498010E11514953500D9108A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	498011051514C41300D9108A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* InstaEmailAppDelegate.m */;
+		name = "InstaEmailAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1407;
+		vrLoc = 477;
+	};
+	498011061514C41300D9108A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* InstaEmail_Prefix.pch */;
+		name = "InstaEmail_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 189;
+		vrLoc = 0;
+	};
+	498011071514C41300D9108A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 357;
+		vrLoc = 0;
+	};
+	498011081514C41300D9108A /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* InstaEmail-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/twer/Workspace/headfirstiphone/InstaEmail/InstaEmail-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	498011091514C41300D9108A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* InstaEmailAppDelegate.h */;
+		name = "InstaEmailAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 490;
+		vrLoc = 0;
+	};
+	4980115B1514CDBD00D9108A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* InstaEmailViewController.m */;
+		name = "InstaEmailViewController.m: 79";
+		rLen = 0;
+		rLoc = 2098;
+		rType = 0;
+		vrLen = 718;
+		vrLoc = 2481;
+	};
+	498011651514CE1F00D9108A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* InstaEmailViewController.h */;
+		name = "InstaEmailViewController.h: 14";
+		rLen = 0;
+		rLoc = 377;
+		rType = 0;
+		vrLen = 556;
+		vrLoc = 0;
+	};
+	4980116E1514D0E800D9108A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* InstaEmailViewController.m */;
+		name = "InstaEmailViewController.m: 95";
+		rLen = 0;
+		rLoc = 2863;
+		rType = 0;
+		vrLen = 1041;
+		vrLoc = 1832;
+	};
+	8D1107310486CEB800E47090 /* InstaEmail-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 215}, {750, 558}}";
+		};
+	};
+}

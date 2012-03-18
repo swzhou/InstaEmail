@@ -10,6 +10,7 @@
 
 @implementation InstaEmailViewController
 @synthesize emailPicker=emailPicker_;
+@synthesize notesField = notesField_;
 
 
 /*
@@ -81,7 +82,8 @@ controller
 #pragma mark -
 #pragma mark Actions
 -(IBAction) sendButtonTapped: (id) sender {
-	NSString* theMessage = [NSString stringWithFormat:@"I'm %@ and feeling %@ about it.",
+	NSString* theMessage = [NSString stringWithFormat:@"%@ I'm %@ and feeling %@ about it.",
+							notesField_ ? notesField_.text : @"",
 							[activities_ objectAtIndex:[emailPicker_ selectedRowInComponent:0]],
 							[feelings_ objectAtIndex:[emailPicker_ selectedRowInComponent:1]]];
 	if ([MFMailComposeViewController canSendMail]) {
@@ -116,11 +118,15 @@ controller
 	// e.g. self.myOutlet = nil;
 }
 
+- (IBAction) textFieldDoneEditing:(id) sender {
+	[sender resignFirstResponder];
+}
 
 - (void)dealloc {
-	[emailPicker_ dealloc];
-	[activities_ dealloc];
-	[feelings_ dealloc];
+	[emailPicker_ release];
+	[activities_ release];
+	[feelings_ release];
+	[notesField_ release];
     [super dealloc];
 }
 

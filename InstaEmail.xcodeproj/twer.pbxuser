@@ -2,16 +2,16 @@
 {
 	1D3623240D0F684500981E51 /* InstaEmailAppDelegate.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {793, 405}}";
-			sepNavSelRange = "{0, 0}";
+			sepNavIntBoundsRect = "{{0, 0}, {572, 402}}";
+			sepNavSelRange = "{490, 0}";
 			sepNavVisRange = "{0, 490}";
 		};
 	};
 	1D3623250D0F684500981E51 /* InstaEmailAppDelegate.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1965, 1079}}";
-			sepNavSelRange = "{0, 0}";
-			sepNavVisRange = "{477, 1407}";
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1183}}";
+			sepNavSelRange = "{685, 0}";
+			sepNavVisRange = "{3, 704}";
 		};
 	};
 	1D6058900D05DD3D006BFB54 /* InstaEmail */ = {
@@ -22,17 +22,17 @@
 	};
 	28D7ACF60DDB3853001CB0EB /* InstaEmailViewController.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {607, 312}}";
-			sepNavSelRange = "{278, 0}";
-			sepNavVisRange = "{144, 411}";
+			sepNavIntBoundsRect = "{{0, 0}, {607, 379}}";
+			sepNavSelRange = "{686, 0}";
+			sepNavVisRange = "{0, 694}";
 			sepNavWindowFrame = "{{38, 194}, {750, 558}}";
 		};
 	};
 	28D7ACF70DDB3853001CB0EB /* InstaEmailViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {793, 1625}}";
-			sepNavSelRange = "{2863, 0}";
-			sepNavVisRange = "{1832, 1041}";
+			sepNavIntBoundsRect = "{{0, 0}, {719, 1690}}";
+			sepNavSelRange = "{2352, 0}";
+			sepNavVisRange = "{2055, 1199}";
 			sepNavWindowFrame = "{{61, 173}, {750, 558}}";
 		};
 	};
@@ -53,7 +53,7 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					615,
+					541,
 					20,
 					48,
 					43,
@@ -92,18 +92,46 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 353670432;
-			PBXWorkspaceStateSaveDate = 353670432;
+			PBXPerProjectTemplateStateSaveDate = 353719370;
+			PBXWorkspaceStateSaveDate = 353719370;
 		};
 		perUserProjectItems = {
-			498011051514C41300D9108A /* PBXTextBookmark */ = 498011051514C41300D9108A /* PBXTextBookmark */;
-			498011061514C41300D9108A /* PBXTextBookmark */ = 498011061514C41300D9108A /* PBXTextBookmark */;
-			498011071514C41300D9108A /* PBXTextBookmark */ = 498011071514C41300D9108A /* PBXTextBookmark */;
-			498011081514C41300D9108A /* PlistBookmark */ = 498011081514C41300D9108A /* PlistBookmark */;
-			498011091514C41300D9108A /* PBXTextBookmark */ = 498011091514C41300D9108A /* PBXTextBookmark */;
-			4980115B1514CDBD00D9108A /* PBXTextBookmark */ = 4980115B1514CDBD00D9108A /* PBXTextBookmark */;
-			498011651514CE1F00D9108A /* PBXTextBookmark */ = 498011651514CE1F00D9108A /* PBXTextBookmark */;
-			4980116E1514D0E800D9108A /* PBXTextBookmark */ = 4980116E1514D0E800D9108A /* PBXTextBookmark */;
+			49116BD71515545700057A0C /* PBXTextBookmark */ = 49116BD71515545700057A0C /* PBXTextBookmark */;
+			49116BE515156B5C00057A0C /* PlistBookmark */ = 49116BE515156B5C00057A0C /* PlistBookmark */;
+			49116BE615156B5C00057A0C /* PBXTextBookmark */ = 49116BE615156B5C00057A0C /* PBXTextBookmark */;
+			49116BE715156B5C00057A0C /* PBXTextBookmark */ = 49116BE715156B5C00057A0C /* PBXTextBookmark */;
+			49116BE815156B5C00057A0C /* PBXTextBookmark */ = 49116BE815156B5C00057A0C /* PBXTextBookmark */;
+			49116BE915156B5C00057A0C /* PBXTextBookmark */ = 49116BE915156B5C00057A0C /* PBXTextBookmark */;
+			49116BEA15156B5C00057A0C /* PBXTextBookmark */ = 49116BEA15156B5C00057A0C /* PBXTextBookmark */;
+			49116BEB15156C5A00057A0C /* PBXTextBookmark */ = 49116BEB15156C5A00057A0C /* PBXTextBookmark */;
+			49116BEC15156C5A00057A0C /* PBXTextBookmark */ = 49116BEC15156C5A00057A0C /* PBXTextBookmark */;
+			49116BED15156C5A00057A0C /* PBXTextBookmark */ = 49116BED15156C5A00057A0C /* PBXTextBookmark */;
+			49116BEE15156CA600057A0C /* PBXTextBookmark */ = 49116BEE15156CA600057A0C /* PBXTextBookmark */;
+			49116BEF1515803A00057A0C /* PBXTextBookmark */ = 49116BEF1515803A00057A0C /* PBXTextBookmark */;
+			49116BF01515803A00057A0C /* PBXTextBookmark */ = 49116BF01515803A00057A0C /* PBXTextBookmark */;
+			49116BF11515803A00057A0C /* PBXTextBookmark */ = 49116BF11515803A00057A0C /* PBXTextBookmark */;
+			49116BF31515808F00057A0C /* PBXTextBookmark */ = 49116BF31515808F00057A0C /* PBXTextBookmark */;
+			49116BF815158DE800057A0C /* PBXTextBookmark */ = 49116BF815158DE800057A0C /* PBXTextBookmark */;
+			49116BF915158DE800057A0C /* PBXTextBookmark */ = 49116BF915158DE800057A0C /* PBXTextBookmark */;
+			49116BFA15158E2400057A0C /* PBXTextBookmark */ = 49116BFA15158E2400057A0C /* PBXTextBookmark */;
+			49116BFB15158E2400057A0C /* PBXTextBookmark */ = 49116BFB15158E2400057A0C /* PBXTextBookmark */;
+			49116BFC15158E2400057A0C /* PBXTextBookmark */ = 49116BFC15158E2400057A0C /* PBXTextBookmark */;
+			49116BFD15158E4D00057A0C /* PBXTextBookmark */ = 49116BFD15158E4D00057A0C /* PBXTextBookmark */;
+			49116BFE15158E6700057A0C /* PBXTextBookmark */ = 49116BFE15158E6700057A0C /* PBXTextBookmark */;
+			49116BFF15158E9D00057A0C /* PBXTextBookmark */ = 49116BFF15158E9D00057A0C /* PBXTextBookmark */;
+			49116C0215158EC200057A0C /* PBXTextBookmark */ = 49116C0215158EC200057A0C /* PBXTextBookmark */;
+			49116C05151590AE00057A0C /* PBXTextBookmark */ = 49116C05151590AE00057A0C /* PBXTextBookmark */;
+			49116C06151590E900057A0C /* PBXTextBookmark */ = 49116C06151590E900057A0C /* PBXTextBookmark */;
+			49116C091515910900057A0C /* PBXTextBookmark */ = 49116C091515910900057A0C /* PBXTextBookmark */;
+			49116C0A1515920A00057A0C /* PBXTextBookmark */ = 49116C0A1515920A00057A0C /* PBXTextBookmark */;
+			498011051514C41300D9108A = 498011051514C41300D9108A /* PBXTextBookmark */;
+			498011061514C41300D9108A = 498011061514C41300D9108A /* PBXTextBookmark */;
+			498011071514C41300D9108A = 498011071514C41300D9108A /* PBXTextBookmark */;
+			498011081514C41300D9108A = 498011081514C41300D9108A /* PlistBookmark */;
+			498011091514C41300D9108A = 498011091514C41300D9108A /* PBXTextBookmark */;
+			4980115B1514CDBD00D9108A = 4980115B1514CDBD00D9108A /* PBXTextBookmark */;
+			498011651514CE1F00D9108A = 498011651514CE1F00D9108A /* PBXTextBookmark */;
+			4980116E1514D0E800D9108A = 4980116E1514D0E800D9108A /* PBXTextBookmark */;
 		};
 		sourceControlManager = 498010E01514953500D9108A /* Source Control */;
 		userBuildSettings = {
@@ -122,6 +150,287 @@
 			sepNavSelRange = "{0, 0}";
 			sepNavVisRange = "{0, 189}";
 		};
+	};
+	49116BD71515545700057A0C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* InstaEmailViewController.m */;
+		name = "InstaEmailViewController.m: 95";
+		rLen = 0;
+		rLoc = 2949;
+		rType = 0;
+		vrLen = 1038;
+		vrLoc = 1832;
+	};
+	49116BE515156B5C00057A0C /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* InstaEmail-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/twer/Workspace/headfirstiphone/InstaEmail/InstaEmail-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	49116BE615156B5C00057A0C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* InstaEmailAppDelegate.m */;
+		name = "InstaEmailAppDelegate.m: 27";
+		rLen = 0;
+		rLoc = 685;
+		rType = 0;
+		vrLen = 704;
+		vrLoc = 3;
+	};
+	49116BE715156B5C00057A0C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* InstaEmailAppDelegate.h */;
+		name = "InstaEmailAppDelegate.h: 23";
+		rLen = 0;
+		rLoc = 490;
+		rType = 0;
+		vrLen = 490;
+		vrLoc = 0;
+	};
+	49116BE815156B5C00057A0C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* InstaEmailViewController.h */;
+		name = "InstaEmailViewController.h: 17";
+		rLen = 0;
+		rLoc = 462;
+		rType = 0;
+		vrLen = 647;
+		vrLoc = 0;
+	};
+	49116BE915156B5C00057A0C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* InstaEmailViewController.m */;
+		name = "InstaEmailViewController.m: 13";
+		rLen = 0;
+		rLoc = 277;
+		rType = 0;
+		vrLen = 725;
+		vrLoc = 0;
+	};
+	49116BEA15156B5C00057A0C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* InstaEmailViewController.m */;
+		name = "InstaEmailViewController.m: 13";
+		rLen = 0;
+		rLoc = 302;
+		rType = 0;
+		vrLen = 749;
+		vrLoc = 0;
+	};
+	49116BEB15156C5A00057A0C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* InstaEmailViewController.m */;
+		name = "InstaEmailViewController.m: 13";
+		rLen = 0;
+		rLoc = 302;
+		rType = 0;
+		vrLen = 749;
+		vrLoc = 0;
+	};
+	49116BEC15156C5A00057A0C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* InstaEmailViewController.h */;
+		name = "InstaEmailViewController.h: 17";
+		rLen = 0;
+		rLoc = 462;
+		rType = 0;
+		vrLen = 647;
+		vrLoc = 0;
+	};
+	49116BED15156C5A00057A0C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* InstaEmailViewController.h */;
+		name = "InstaEmailViewController.h: 14";
+		rLen = 0;
+		rLoc = 365;
+		rType = 0;
+		vrLen = 647;
+		vrLoc = 0;
+	};
+	49116BEE15156CA600057A0C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* InstaEmailViewController.h */;
+		name = "InstaEmailViewController.h: 22";
+		rLen = 1;
+		rLoc = 597;
+		rType = 0;
+		vrLen = 647;
+		vrLoc = 0;
+	};
+	49116BEF1515803A00057A0C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* InstaEmailViewController.h */;
+		name = "InstaEmailViewController.h: 22";
+		rLen = 1;
+		rLoc = 597;
+		rType = 0;
+		vrLen = 647;
+		vrLoc = 0;
+	};
+	49116BF01515803A00057A0C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* InstaEmailViewController.m */;
+		name = "InstaEmailViewController.m: 13";
+		rLen = 0;
+		rLoc = 302;
+		rType = 0;
+		vrLen = 749;
+		vrLoc = 0;
+	};
+	49116BF11515803A00057A0C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* InstaEmailViewController.m */;
+		name = "InstaEmailViewController.m: 122";
+		rLen = 0;
+		rLoc = 3678;
+		rType = 0;
+		vrLen = 740;
+		vrLoc = 2910;
+	};
+	49116BF31515808F00057A0C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* InstaEmailViewController.m */;
+		name = "InstaEmailViewController.m: 122";
+		rLen = 0;
+		rLoc = 3678;
+		rType = 0;
+		vrLen = 740;
+		vrLoc = 2910;
+	};
+	49116BF815158DE800057A0C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* InstaEmailViewController.m */;
+		name = "InstaEmailViewController.m: 122";
+		rLen = 0;
+		rLoc = 3678;
+		rType = 0;
+		vrLen = 739;
+		vrLoc = 2911;
+	};
+	49116BF915158DE800057A0C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* InstaEmailViewController.h */;
+		name = "InstaEmailViewController.h: 23";
+		rLen = 0;
+		rLoc = 686;
+		rType = 0;
+		vrLen = 694;
+		vrLoc = 0;
+	};
+	49116BFA15158E2400057A0C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* InstaEmailViewController.h */;
+		name = "InstaEmailViewController.h: 23";
+		rLen = 0;
+		rLoc = 686;
+		rType = 0;
+		vrLen = 694;
+		vrLoc = 0;
+	};
+	49116BFB15158E2400057A0C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* InstaEmailViewController.m */;
+		name = "InstaEmailViewController.m: 122";
+		rLen = 0;
+		rLoc = 3678;
+		rType = 0;
+		vrLen = 739;
+		vrLoc = 2911;
+	};
+	49116BFC15158E2400057A0C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* InstaEmailViewController.m */;
+		name = "InstaEmailViewController.m: 120";
+		rLen = 0;
+		rLoc = 3577;
+		rType = 0;
+		vrLen = 757;
+		vrLoc = 2911;
+	};
+	49116BFD15158E4D00057A0C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* InstaEmailViewController.m */;
+		name = "InstaEmailViewController.m: 121";
+		rLen = 0;
+		rLoc = 3634;
+		rType = 0;
+		vrLen = 813;
+		vrLoc = 2911;
+	};
+	49116BFE15158E6700057A0C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* InstaEmailViewController.m */;
+		name = "InstaEmailViewController.m: 121";
+		rLen = 0;
+		rLoc = 3634;
+		rType = 0;
+		vrLen = 813;
+		vrLoc = 2911;
+	};
+	49116BFF15158E9D00057A0C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* InstaEmailViewController.m */;
+		name = "InstaEmailViewController.m: 121";
+		rLen = 0;
+		rLoc = 3634;
+		rType = 0;
+		vrLen = 813;
+		vrLoc = 2911;
+	};
+	49116C0215158EC200057A0C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* InstaEmailViewController.m */;
+		name = "InstaEmailViewController.m: 121";
+		rLen = 0;
+		rLoc = 3634;
+		rType = 0;
+		vrLen = 815;
+		vrLoc = 2911;
+	};
+	49116C05151590AE00057A0C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* InstaEmailViewController.m */;
+		name = "InstaEmailViewController.m: 85";
+		rLen = 0;
+		rLoc = 2274;
+		rType = 0;
+		vrLen = 1155;
+		vrLoc = 2055;
+	};
+	49116C06151590E900057A0C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* InstaEmailViewController.m */;
+		name = "InstaEmailViewController.m: 86";
+		rLen = 0;
+		rLoc = 2352;
+		rType = 0;
+		vrLen = 1199;
+		vrLoc = 2055;
+	};
+	49116C091515910900057A0C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* InstaEmailViewController.m */;
+		name = "InstaEmailViewController.m: 86";
+		rLen = 0;
+		rLoc = 2352;
+		rType = 0;
+		vrLen = 1194;
+		vrLoc = 2055;
+	};
+	49116C0A1515920A00057A0C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* InstaEmailViewController.m */;
+		name = "InstaEmailViewController.m: 86";
+		rLen = 0;
+		rLoc = 2352;
+		rType = 0;
+		vrLen = 1199;
+		vrLoc = 2055;
 	};
 	498010CB1514952000D9108A /* InstaEmail */ = {
 		isa = PBXExecutable;
@@ -204,7 +513,7 @@
 		);
 		name = "/Users/twer/Workspace/headfirstiphone/InstaEmail/InstaEmail-Info.plist";
 		rLen = 0;
-		rLoc = 9223372036854775807;
+		rLoc = 9223372036854775808;
 	};
 	498011091514C41300D9108A /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
@@ -221,7 +530,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* InstaEmailViewController.m */;
 		name = "InstaEmailViewController.m: 79";
 		rLen = 0;
-		rLoc = 2098;
+		rLoc = 2136;
 		rType = 0;
 		vrLen = 718;
 		vrLoc = 2481;
@@ -241,7 +550,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* InstaEmailViewController.m */;
 		name = "InstaEmailViewController.m: 95";
 		rLen = 0;
-		rLoc = 2863;
+		rLoc = 2949;
 		rType = 0;
 		vrLen = 1041;
 		vrLoc = 1832;
